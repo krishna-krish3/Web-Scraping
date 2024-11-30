@@ -16,7 +16,7 @@ Click the "Fetch Data" button to initiate the scraping process.
 View the console output to see the fetched data and any logs generated during the process.
 
 # Requirements
-Python 3.x
-Tkinter
-BeautifulSoup
+Python 3.x \
+Tkinter \
+BeautifulSoup \
 Requests
